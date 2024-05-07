@@ -1,0 +1,140 @@
+
+.m{
+   width:33%
+}
+.zs {
+   width: 90%;
+}
+
+
+.search-bar{
+   font-size: 2rem;
+   width: 60%;
+ }
+ .discover-heading{
+     font-size:4rem;
+ }
+ .get-app{
+      padding-right:10px;
+ }
+ .side-heading{
+    padding-top:4px ;
+    padding-right: 10px;
+  }
+  .eat-heading{
+     font-size:68px;
+  }
+ .butter-chicken{
+     font-size: 15px;
+     margin-left: 20px;
+ }
+.collection{
+ margin-left: auto;
+}
+ .inner-button{
+     margin-left: 10px;
+ }
+
+
+@media(max-width:800px){ 
+  .search-bar{
+     font-size: 1rem;
+     width: 80%;
+     margin-left: 48px;
+ }
+.discover-heading{
+ font-size:20px;
+ padding-left: 75px;
+ padding-top:5px;
+}
+.get-app{
+      padding-right:40px;
+      padding-top: 16px;
+ }
+ .side-heading{
+    padding-top:16px ;
+    padding-right:10px;
+  }
+  .eat-heading{
+     font-size:40px;
+     padding-left:70px;
+  }
+  .butter-chicken{
+     width: 100%;
+     margin-left: 60px;
+ }
+ .collection{
+     margin-left:0px;
+ }
+ .pizza{
+     margin-left: 32px;
+ }
+ .burger{
+     margin-left: 54px;
+ }
+ .cake{
+     margin-left:54px ;
+ }
+ .biryani{
+     margin-left: 58px;
+ }
+ .panner{
+     margin-left: 58px;
+ }
+ .location{
+     font-size: 30px;
+     margin-left: 30px;
+ }
+ .row1{
+     margin-left: 5px;
+ }
+ .location-text{
+     font-size: 17px;
+ }
+ #getapp{
+     margin-top: 40px;
+ 
+ }
+ .mobile{
+     padding-top: 60px;
+     height: 60%;
+     padding-right: 10px;
+     padding-left: 70px;
+ }
+ .download-app{
+    padding-top: 60px;
+     font-size: 29px;
+ }
+ .app-text{
+     padding-left: 24px;
+ }
+ .download-button{
+     margin-bottom: 30px;
+     margin-left: 3px;
+ }
+ .footer-heading{
+     padding-top: 40px;
+     
+ }
+ .india-button{
+     padding-top: 40px;
+     margin-left: 40px;
+ }
+ .language-button{
+     padding-top: 40px;
+     margin-left: 10px;
+ }
+ .eataverse{
+     margin-left: 40px;
+ }
+ .footer-button{
+     margin-top:35px;
+     margin-left: 40px;
+ }
+ .about-heading{
+     margin-left: 15px;
+ }
+ .inner-button{
+     margin-left: 5px;
+ }
+} 
